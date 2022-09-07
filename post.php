@@ -1,4 +1,4 @@
-<?php require_once("header.php"); ?>
+
 
 <!doctype html>
 <html lang="en">
@@ -22,4 +22,4 @@ Your email address is: <?php echo $_GET["email"]; ?>
 </html>
 
 
-<?php require_once("footer_php")
+
