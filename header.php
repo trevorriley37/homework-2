@@ -13,7 +13,7 @@
     <a class="nav-link Home" aria-current="page" href="index.php">Home "Post"</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="get.php">"Get"</a>
+    <a class="nav-link" href="getcollection.php">"Get"</a>
   </li>
 
 </ul>
