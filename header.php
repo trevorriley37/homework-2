@@ -10,13 +10,10 @@
    
    <ul class="nav">
   <li class="nav-item">
-    <a class="nav-link Home" aria-current="page" href="index.php">Active</a>
+    <a class="nav-link Home" aria-current="page" href="index.php">Home "Post"</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">"Get"</a>
   </li>
 
 </ul>
