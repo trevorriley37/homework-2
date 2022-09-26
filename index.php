@@ -3,7 +3,7 @@
 
 
 
-MyFunction();
+writeMsg();
 
 
 
