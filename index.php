@@ -1,5 +1,11 @@
 <?php require_once("header.php"); ?>
 
+
+
+function MyFunction() {
+  echo "This is my function.";
+
+
 MyFunction();
 
 
